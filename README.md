@@ -12,11 +12,11 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 [<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-
 <br /> 
 
 [linkedin]: https://www.linkedin.com/in/demi%C3%A1n-diz-b4baa6237/
+[facebook]: https://www.facebook.com/demian.diz/
+[instagran]: https://www.instagram.com/aficionado_al_ajedrez/
 <!--
 **Demian2023/Demian2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
