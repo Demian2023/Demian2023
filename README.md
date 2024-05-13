@@ -1,13 +1,13 @@
 ### Hola a todos! 👋
 
-🔭 Estoy trabajando en:
+ Estoy trabajando en:
 - Mi portfolio
 - Plantillas para páginas web
 
-🌱 Estoy aprendiendo:
+ Estoy aprendiendo:
 - Astro y Tailwind
 
-📫 Contacto:
+ Contacto:
 
 [<img align="left" alt="Demián Diz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 [<img align="left" alt="Demián Diz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
